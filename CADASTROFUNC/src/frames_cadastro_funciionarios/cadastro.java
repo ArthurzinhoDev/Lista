@@ -12,10 +12,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Maique
- */
+
 public class cadastro extends javax.swing.JFrame {
 
     controleacesso c = new controleacesso();
